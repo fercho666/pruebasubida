@@ -1,2 +1,3 @@
-# pruebasubida
-es una prueba de subida
+# ejercicios-segundaparte
+ejercicios de  cursos 
+son los jerciciso en linea d e alura latam
